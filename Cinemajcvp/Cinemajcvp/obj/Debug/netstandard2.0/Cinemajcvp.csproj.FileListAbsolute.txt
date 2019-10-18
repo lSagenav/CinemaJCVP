@@ -1,0 +1,15 @@
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\bin\Debug\netstandard2.0\Cinemajcvp.deps.json
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\bin\Debug\netstandard2.0\Cinemajcvp.dll
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\bin\Debug\netstandard2.0\ref\Cinemajcvp.dll
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\bin\Debug\netstandard2.0\Cinemajcvp.pdb
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\Cartelera.xaml.g.cs
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\Cinemajcvp.AssemblyInfoInputs.cache
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\Cinemajcvp.AssemblyInfo.cs
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\Cinemajcvp.dll
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\ref\Cinemajcvp.dll
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\Cinemajcvp.pdb
+C:\Users\Juan C\source\repos\Cinemajcvp\Cinemajcvp\Cinemajcvp\obj\Debug\netstandard2.0\Cinemajcvp.csprojAssemblyReference.cache
